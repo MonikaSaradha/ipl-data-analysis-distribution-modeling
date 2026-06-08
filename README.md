@@ -101,16 +101,15 @@ The project uses three datasets:
 
 ## Project Structure
 
-ipl-data-analysis-distribution-modeling/
-│
-├── analysis.ipynb        # Python implementation
-├── analysis.R           # R implementation
-├── data/
-│   ├── ipl_ball_by_ball.xlsx
-│   ├── ipl_salary_data.xlsx
-│   └── ipl_matches.csv
-├── README.md
-├── project_report.pdf
+* `analysis.ipynb` – Python implementation
+* `analysis.R` – R implementation
+* `data/` – datasets
+  * `ipl_ball_by_ball.xlsx`
+  * `ipl_salary_data.xlsx`
+  * `ipl_matches.csv`
+* `README.md` – project overview
+* `project_report.pdf` – detailed analysis
+
 
 ---
 
